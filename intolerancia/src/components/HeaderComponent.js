@@ -1,5 +1,5 @@
 import { banner,intoleranciaFoto1 } from "../variavel/img"
-const HeaderComponent = () => {
+function HeaderComponent  ()  {
 
 return (
     

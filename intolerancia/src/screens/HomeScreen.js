@@ -1,4 +1,4 @@
-import { banner, intoleranciaFoto1 } from "../variavel/img"
+import { intoleranciaFoto1 } from "../variavel/img"
 export default function HomeScreens() {
     return (
 
@@ -182,7 +182,7 @@ export default function HomeScreens() {
             @media (max-width: 427px){
 
                 .conteudos{
-
+                    opacity:1;
                     }
 
             }
